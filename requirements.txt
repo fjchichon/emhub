@@ -18,7 +18,7 @@ psutil==5.9.1
 PyJWT==2.8.0
 tzlocal
 pytz==2023.3
-requests==2.28.1
+requests==2.33.0
 SQLAlchemy==2.0.19
 SQLAlchemy-Utc==0.14.0
 Werkzeug==2.3.6
